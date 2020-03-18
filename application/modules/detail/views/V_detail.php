@@ -18,7 +18,9 @@
 			</div>
 		</div>
 		</section>
+
 		<div id="primary-content" class="page-wrap">
+		
 			<div class="container clearfix">
 				<div class="page-inner">
 					<article id="post-155" class="pages post-155 page type-page status-publish hentry">
