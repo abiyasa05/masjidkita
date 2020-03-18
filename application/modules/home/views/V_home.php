@@ -1,4 +1,5 @@
 <div id="wrapper-content" class="clearfix ">
+
 		<div id="primary-content" class="page-wrap">
 			<div class="container clearfix">
 				<div class="page-inner">
