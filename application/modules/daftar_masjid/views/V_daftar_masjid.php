@@ -6,11 +6,27 @@
             <div class="page-title-inner">
                 <div class="page-title-main-info">
                     <h1>Daftar Masjid</h1>
+                    <section class="page-title page-title-background" style="padding-top:120px;padding-bottom:120px">
+                        <div class="page-title-background page-title-parallax" style="background-image: url(../wp-content/plugins/beyot-framework/assets/images/theme-options/page-title.jpg)" data-stellar-background-ratio="0.5"></div>
+                        <div class="vc_row-background-overlay" style="background-color: rgba(0,0,0,0.68)"></div>
+                        <div class="container">
+                            <div class="page-title-inner">
+                                <div class="page-title-main-info">
+                                    <h1>
+                                        Daftar Masjid</h1>
+                                </div>
+                                <ul class="breadcrumbs">
+                                    <li><a href="home" class="home">Home</a></li>
+                                    <li><span>Masjid</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <ul class="breadcrumbs">
+                            <li><a href="../index.html" class="home">Home</a></li>
+                            <li><span>Masjid</span></li>
+                        </ul>
+                    </section>
                 </div>
-                <ul class="breadcrumbs">
-                    <li><a href="../index.html" class="home">Home</a></li>
-                    <li><span>Masjid</span></li>
-                </ul>
             </div>
         </div>
     </section>
@@ -506,8 +522,6 @@
                             </div>
                         </div>
                     </aside>
-
-
                 </div>
             </div>
         </div>

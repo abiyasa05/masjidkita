@@ -9,10 +9,17 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <script src="<?= base_url('assets/'); ?>cdn-cgi/apps/head/2oc_RD5SS6wgN5SiQnSEnWVNHg8.js"></script>
+<<<<<<< HEAD
+    <link rel="profile" href="<?= base_url('assets/'); ?>https://gmpg.org/xfn/11" />
+    <link rel="shortcut icon" href="<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/images/favicon.ico" />
+    <title>Masjid</title>
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>wp-content/cache/min/1/3d63b7490bab1a2b80d3453f51a8956d.css" data-minify="1" />
+=======
     <link rel="profile" href="https://gmpg.org/xfn/11" />
     <link rel="shortcut icon" href="<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/images/favicon.ico" />
     <title><?= $title; ?></title>
     <link rel="stylesheet" href="<?= base_url('assets/'); ?>wp-content/cache/min/1/5502fef7a5cf169c4c7b857b1dc78ff5.css" data-minify="1" />
+>>>>>>> 7d9c35d1c16385596c6715805feb34c86cba268e
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <script>
         /* <![CDATA[ */
@@ -25,7 +32,11 @@
         (function() {
             var wf = document.createElement('script');
             wf.src = '<?= base_url('assets/'); ?>ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+<<<<<<< HEAD
+            wf.type = '<?= base_url('assets/'); ?>text/javascript';
+=======
             wf.type = 'text/javascript';
+>>>>>>> 7d9c35d1c16385596c6715805feb34c86cba268e
             wf.async = 'true';
             var s = document.getElementsByTagName('script')[0];
             s.parentNode.insertBefore(wf, s);
@@ -184,8 +195,14 @@
             }]
         }
     </script>
+<<<<<<< HEAD
+    <link rel="alternate" type="application/rss+xml" title="Beyot &raquo; Feed" href="<?= base_url('assets/'); ?>feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Beyot &raquo; Comments Feed" href="<?= base_url('assets/'); ?>comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Beyot &raquo; Admin-1 Comments Feed" href="<?= base_url('assets/'); ?>feed/index.html" />
+=======
     <link rel="alternate" type="application/rss+xml" title="Beyot &raquo; Feed" href="feed/index.html" />
     <link rel="alternate" type="application/rss+xml" title="Beyot &raquo; Comments Feed" href="comments/feed/index.html" />
+>>>>>>> 7d9c35d1c16385596c6715805feb34c86cba268e
     <style type="text/css">
         img.wp-smiley,
         img.emoji {
@@ -245,6 +262,13 @@
                                         </div>
                                         <div id="lang_sel">
                                             <ul>
+<<<<<<< HEAD
+                                                <li> <a href="#" class="lang_sel_sel icl-en"> <img class="iclflag" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/03/en.png" alt="en" title="English">&nbsp;&nbsp;English </a>
+                                                    <ul>
+                                                        <li class="icl-fr"> <a href="#"> <img class="iclflag" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/03/fr.png" alt="fr" title="French">&nbsp;French </a></li>
+                                                        <li class="icl-de"> <a href="#"> <img class="iclflag" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/03/de.png" alt="de" title="German">&nbsp;German </a></li>
+                                                        <li class="icl-ja"> <a href="#"> <img class="iclflag" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/03/ja.png" alt="ja" title="Japanese">&nbsp;Japanese </a></li>
+=======
                                                 <li>
                                                     <a href="#" class="lang_sel_sel icl-en"><img class="iclflag" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/03/en.png" alt="en" title="English">&nbsp;&nbsp;English</a>
                                                     <ul>
@@ -257,6 +281,7 @@
                                                         <li class="icl-ja">
                                                             <a href="#"><img class="iclflag" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/03/ja.png" alt="ja" title="Japanese">&nbsp;Japanese</a>
                                                         </li>
+>>>>>>> 7d9c35d1c16385596c6715805feb34c86cba268e
                                                     </ul>
                                                 </li>
                                             </ul>
@@ -281,7 +306,11 @@
                     <div class="container">
                         <div class="header-above-inner container-inner clearfix">
                             <div class="logo-header">
+<<<<<<< HEAD
+                                <a class="no-sticky" href="index.html" title="Beyot-Real Estate Listings, Homes For Sale, Housing Data"><img src="<?= base_url('assets/'); ?>wp-content/uploads/2016/11/Logo.png" alt="Beyot-Real Estate Listings, Homes For Sale, Housing Data"/></a>
+=======
                                 <a class="no-sticky" href="<?= base_url('home'); ?>" title="Beyot-Real Estate Listings, Homes For Sale, Housing Data"><img src="<?= base_url('assets/'); ?>wp-content/uploads/2016/11/Logo.png" alt="Beyot-Real Estate Listings, Homes For Sale, Housing Data" /></a>
+>>>>>>> 7d9c35d1c16385596c6715805feb34c86cba268e
                             </div>
                             <nav class="primary-menu">
                                 <ul id="main-menu" class="main-menu x-nav-menu x-nav-menu_primary-menu x-animate-sign-flip">
@@ -428,9 +457,13 @@
                                     <div class="wpb_wrapper">
                                         <div class="wpb_single_image wpb_content_element vc_align_left">
                                             <figure class="wpb_wrapper vc_figure">
+<<<<<<< HEAD
+                                                <div class="vc_single_image-wrapper vc_box_border_grey"><img class="vc_single_image-img " src="<?= base_url('assets/'); ?>wp-content/uploads/2016/11/icon-letter.png" width="69" height="69" alt="icon-letter" title="icon-letter" /></div>
+=======
                                                 <div class="vc_single_image-wrapper vc_box_border_grey">
                                                     <img class="vc_single_image-img " src="<?= base_url('assets/'); ?>wp-content/uploads/2016/11/icon-letter.png" width="69" height="69" alt="icon-letter" title="icon-letter" />
                                                 </div>
+>>>>>>> 7d9c35d1c16385596c6715805feb34c86cba268e
                                             </figure>
                                         </div>
                                     </div>
@@ -597,9 +630,13 @@
                             <hr>
                             <div class="wp-social-login-widget">
                                 <div class="wp-social-login-connect-with">Connect with:</div>
+<<<<<<< HEAD
+                                <div class="wp-social-login-provider-list"> <a rel="nofollow" href="wp-loginb973.html?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Facebook&amp;redirect_to=https%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fagent%2Farafa-el-sherief%2F" title="Connect with Facebook" class="wp-social-login-provider wp-social-login-provider-facebook" data-provider="Facebook"> <img alt="Facebook" title="Connect with Facebook" src="<?= base_url('assets/'); ?>wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/facebook.png" /> </a> <a rel="nofollow" href="wp-login0b80.html?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Google&amp;redirect_to=https%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fagent%2Farafa-el-sherief%2F" title="Connect with Google" class="wp-social-login-provider wp-social-login-provider-google" data-provider="Google"> <img alt="Google" title="Connect with Google" src="<?= base_url('assets/'); ?>wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/google.png" /> </a> <a rel="nofollow" href="wp-logineb90.html?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Twitter&amp;redirect_to=https%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fagent%2Farafa-el-sherief%2F" title="Connect with Twitter" class="wp-social-login-provider wp-social-login-provider-twitter" data-provider="Twitter"> <img alt="Twitter" title="Connect with Twitter" src="wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/twitter.png" /> </a></div>
+=======
                                 <div class="wp-social-login-provider-list">
                                     <a rel="nofollow" href="<?= base_url('assets/'); ?>wp-loginaa26.html?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Facebook&amp;redirect_to=http%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2F" title="Connect with Facebook" class="wp-social-login-provider wp-social-login-provider-facebook" data-provider="Facebook"><img alt="Facebook" title="Connect with Facebook" src="<?= base_url('assets/'); ?>wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/facebook.png" /></a><a rel="nofollow" href="<?= base_url('assets/'); ?>wp-login4ae5.html?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Google&amp;redirect_to=http%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2F" title="Connect with Google" class="wp-social-login-provider wp-social-login-provider-google" data-provider="Google"><img alt="Google" title="Connect with Google" src="<?= base_url('assets/'); ?>wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/google.png" /></a><a rel="nofollow" href="<?= base_url('assets/'); ?>wp-login9086.html?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Twitter&amp;redirect_to=http%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2F" title="Connect with Twitter" class="wp-social-login-provider wp-social-login-provider-twitter" data-provider="Twitter"><img alt="Twitter" title="Connect with Twitter" src="<?= base_url('assets/'); ?>wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/twitter.png" /></a>
                                 </div>
+>>>>>>> 7d9c35d1c16385596c6715805feb34c86cba268e
                                 <div class="wp-social-login-widget-clearing"></div>
                             </div>
                         </div>
@@ -760,7 +797,11 @@
     <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/packages/bootstrap/js/bootstrap.min5589.js?ver=3.4.1'></script>
     <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/jquery.validate.min2c75.js?ver=1.17.0'></script>
     <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/imagesloaded.min55a0.js?ver=3.2.0'></script>
+<<<<<<< HEAD
+    <script type='text/javascript' src='https://maps-api-ssl.google.com/maps/api/js?libraries=places&amp;language=en_US&amp;key=AIzaSyDiMIj9qJw-InawUWnu7kUK4GjDQ7dktMQ&amp;ver=1.9.4'></script>
+=======
     <script type='text/javascript' src="https://maps.googleapis.com/maps/api/js?libraries=places&amp;language=en_US&amp;key=AIzaSyDiMIj9qJw-InawUWnu7kUK4GjDQ7dktMQ&amp;ver=1.9.4"></script>
+>>>>>>> 7d9c35d1c16385596c6715805feb34c86cba268e
     <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/infobox.min576c.js?ver=1.1.13'></script>
     <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/packages/owl-carousel/owl.carousel.min3c94.js?ver=2.1.0'></script>
     <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/underscore.min4511.js?ver=1.8.3'></script>
@@ -847,8 +888,16 @@
             "enable_filter_location": "0"
         }; /* ]]>*/
     </script>
+<<<<<<< HEAD
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/js/main.min9dff.js?ver=5.3.2'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/agent/ere-single-agent.minde48.js?ver=1.9.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/star-rating.minfa0c.js?ver=4.0.3'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/templates/shortcodes/agent/assets/js/agent.minde48.js?ver=1.9.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min52c7.js?ver=6.0.5'></script>
+=======
     <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/templates/shortcodes/property-search/assets/js/property-search.minde48.js?ver=1.9.4'></script>
     <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/templates/shortcodes/agent/assets/js/agent.minde48.js?ver=1.9.4'></script>
+>>>>>>> 7d9c35d1c16385596c6715805feb34c86cba268e
     <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/beyot-framework/core/xmenu/assets/js/app.min0e03.js?ver=1.0.0.0'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
