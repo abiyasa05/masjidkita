@@ -9,7 +9,7 @@
                                 Daftar Masjid</h1>
                         </div>
                         <ul class="breadcrumbs">
-                            <li><a href="../index.html" class="home">Home</a></li>
+                            <li><a href="home" class="home">Home</a></li>
                             <li><span>Masjid</span></li>
                         </ul>
                     </div>
