@@ -1,6 +1,4 @@
-											<br>
-											<br>
-										<div class="ere-heading-style2">
+                                    <div class="ere-heading-style2">
 										<center><h2>Komentar</h2><center>
 										</div>
 										<div class="ere-property-element">
@@ -37,4 +35,4 @@
 												</form>
 											</div>
 										</div>
-									</div>
+									

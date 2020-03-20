@@ -13,10 +13,9 @@ class M_komentar extends CI_Model
     {
         
         $id_komentar   = $this->input->post('id_komentar');
-        $nama_lengkap_komentar   = $this->input->post('nama_lengkap_komentar');
-        $no_telp   = $this->input->post('no_telp');
-        $email   = $this->input->post('email');
-        $komentar   = $this->input->post('tanggal_awal_komentar');
+        $nama_komentar   = $this->input->post('nama_komentar');
+        $jumlah_komentar   = $this->input->post('jumlah_komentar');
+        $tanggal_awal_komentar   = $this->input->post('tanggal_awal_komentar');
        
 
 
