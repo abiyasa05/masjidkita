@@ -17,11 +17,7 @@ class home extends MX_Controller
     function index()
     {
         $data = array(
-<<<<<<< HEAD
-            'title'         => "Home - Masjid",
-=======
             'title'         => "Home",
->>>>>>> 7d9c35d1c16385596c6715805feb34c86cba268e
             'namamodule'       => "home",
             'namafileview'     => "V_home",
             'tampil'        => $this->M_home->tampil(),
