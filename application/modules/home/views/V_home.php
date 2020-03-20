@@ -14,7 +14,7 @@
 													<div class="property-item">
 														<div class="property-inner">
 															<div class="property-image">
-																<img width="1200" height="600" src="assets/wp-content/uploads/2019/07/wallpaper-1.jpg" onerror="this.src = 'assets/wp-content/uploads/2017/12/no-image-1200x600.jpg';" alt="Masjid Agung Jami' Malang" title="Masjid Agung Jami' Malang">
+																<img width="1200" height="600" src="<?= base_url('assets/'); ?>wp-content/uploads/2019/07/wallpaper-1.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/uploads/2017/12/no-image-1200x600.jpg';" alt="Masjid Agung Jami' Malang" title="Masjid Agung Jami' Malang">
 															</div>
 															<div class="block-center container">
 																<div class="block-center-inner">
@@ -36,7 +36,7 @@
 													<div class="property-item">
 														<div class="property-inner">
 															<div class="property-image">
-																<img width="1200" height="600" src="assets/wp-content/uploads/2019/07/wallpaper-2.jpg" onerror="this.src = 'assets/wp-content/uploads/2017/12/no-image-1200x600.jpg';" alt="Masjid Raya Baiturrahman" title="Masjid Raya Baiturrahman">
+																<img width="1200" height="600" src="<?= base_url('assets/'); ?>wp-content/uploads/2019/07/wallpaper-2.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/uploads/2017/12/no-image-1200x600.jpg';" alt="Masjid Raya Baiturrahman" title="Masjid Raya Baiturrahman">
 															</div>
 															<div class="block-center container">
 																<div class="block-center-inner">
@@ -58,7 +58,7 @@
 													<div class="property-item">
 														<div class="property-inner">
 															<div class="property-image">
-																<img width="1200" height="600" src="assets/wp-content/uploads/2019/07/wallpaper-3.jpg" onerror="this.src = 'assets/wp-content/uploads/2017/12/no-image-1200x600.jpg';" alt="Masjid Istiqlal" title="Masjid Istiqlal">
+																<img width="1200" height="600" src="<?= base_url('assets/'); ?>wp-content/uploads/2019/07/wallpaper-3.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/uploads/2017/12/no-image-1200x600.jpg';" alt="Masjid Istiqlal" title="Masjid Istiqlal">
 															</div>
 															<div class="block-center container">
 																<div class="block-center-inner">
@@ -175,7 +175,7 @@
 												<div class="property-content owl-carousel manual owl-nav-top-right" data-section-id="5e4b6afa3c621" data-callback="owl_callback" data-plugin-options='{"dots": false, "nav": true, "autoplay": false, "autoplayTimeout": 1000, "responsive": {"0" : {"items" : 1, "margin": 0}, "480" : {"items" : 1, "margin": 0}, "768" : {"items" : 2, "margin": 0}, "992" : {"items" : 3, "margin": 0}, "1200" : {"items" : 4, "margin": 0}, "1820" : {"items" : 6, "margin": 0}}}'>
 													<div class="ere-item-wrap property-item">
 														<div class="property-inner">
-															<div class="property-image "> <img width="330" height="180" src="assets/wp-content/uploads/2000/jami.jpg" onerror="this.src = 'assets/wp-content/uploads/2017/12/no-image-330x180.jpg';" alt="Masjid Agung Jami' Malang" title="Masjid Agung Jami' Malang">
+															<div class="property-image "> <img width="330" height="180" src="<?= base_url('assets/'); ?>wp-content/uploads/2000/jami.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/uploads/2017/12/no-image-330x180.jpg';" alt="Masjid Agung Jami' Malang" title="Masjid Agung Jami' Malang">
 																<div class="property-action block-center">
 																	<div class="block-center-inner">
 																		<div class="property-view-gallery-wrap" data-toggle="tooltip" title="(3) Photos"> <a data-property-id="4947" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="4947" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="4947" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>
@@ -226,7 +226,7 @@
 													</div>
 													<div class="ere-item-wrap property-item">
 														<div class="property-inner">
-															<div class="property-image "> <img width="330" height="180" src="wp-content/uploads/2000/annur.jpg" onerror="this.src = 'wp-content/uploads/2017/12/no-image-330x180.jpg';" alt="Masjid Raya Baiturrahman" title="Masjid Raya Baiturrahman">
+															<div class="property-image "> <img width="330" height="180" src="<?= base_url('assets/'); ?>wp-content/uploads/2000/annur.jpg" onerror="this.src = 'wp-content/uploads/2017/12/no-image-330x180.jpg';" alt="Masjid Raya Baiturrahman" title="Masjid Raya Baiturrahman">
 																<div class="property-action block-center">
 																	<div class="block-center-inner">
 																		<div class="property-view-gallery-wrap" data-toggle="tooltip" title="(5) Photos"> <a data-property-id="771" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="771" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="771" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>
@@ -417,7 +417,7 @@
 												<div class="agent-item ">
 													<div class="agent-item-inner">
 														<div class="agent-avatar">
-															<a title="Admin-1" href="agent/admin-1/index.html"><img width="270" height="340" onerror="this.src = 'assets/wp-content/plugins/essential-real-estate/public/assets/images/profile-avatar.png';" src="wp-content/uploads/2017/01/admin-a.png" alt="Admin-1" title="Admin-1"></a>
+															<a title="Admin-1" href="agent/admin-1/index.html"><img width="270" height="340" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/<?= base_url('assets/'); ?>images/profile-avatar.png';" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/01/admin-a.png" alt="Admin-1" title="Admin-1"></a>
 														</div>
 														<div class="agent-content">
 															<div class="agent-info">
@@ -433,7 +433,7 @@
 												<div class="agent-item ">
 													<div class="agent-item-inner">
 														<div class="agent-avatar">
-															<a title="Admin-2" href="agent/fatma-ghaly/index.html"><img width="270" height="340" onerror="this.src = 'wp-content/plugins/essential-real-estate/public/assets/images/profile-avatar.png';" src="wp-content/uploads/2017/01/admin-b.png" alt="Admin-2" title="Admin-2"></a>
+															<a title="Admin-2" href="agent/fatma-ghaly/index.html"><img width="270" height="340" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/<?= base_url('assets/'); ?>images/profile-avatar.png';" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/01/admin-b.png" alt="Admin-2" title="Admin-2"></a>
 														</div>
 														<div class="agent-content">
 															<div class="agent-info">
@@ -449,7 +449,7 @@
 												<div class="agent-item ">
 													<div class="agent-item-inner">
 														<div class="agent-avatar">
-															<a title="Admin-3" href="agent/abody-swedey/index.html"><img width="270" height="340" onerror="this.src = 'wp-content/plugins/essential-real-estate/public/assets/images/profile-avatar.png';" src="wp-content/uploads/2017/01/admin-a.png" alt="Admin-3" title="Admin-3"></a>
+															<a title="Admin-3" href="agent/abody-swedey/index.html"><img width="270" height="340" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/<?= base_url('assets/'); ?>images/profile-avatar.png';" src="wp-content/uploads/2017/01/admin-a.png" alt="Admin-3" title="Admin-3"></a>
 														</div>
 														<div class="agent-content">
 															<div class="agent-info">
@@ -465,7 +465,7 @@
 												<div class="agent-item ">
 													<div class="agent-item-inner">
 														<div class="agent-avatar">
-															<a title="Admin-4" href="agent/magdy-aya/index.html"><img width="270" height="340" onerror="this.src = 'wp-content/plugins/essential-real-estate/public/assets/images/profile-avatar.png';" src="wp-content/uploads/2017/01/admin-b.png" alt="Admin-4" title="Admin-4"></a>
+															<a title="Admin-4" href="agent/magdy-aya/index.html"><img width="270" height="340" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/<?= base_url('assets/'); ?>images/profile-avatar.png';" src="wp-content/uploads/2017/01/admin-b.png" alt="Admin-4" title="Admin-4"></a>
 														</div>
 														<div class="agent-content">
 															<div class="agent-info">
@@ -506,7 +506,7 @@
 									<div class="wpb_wrapper">
 										<div class="ere-property-type ">
 											<div class="property-type-inner">
-												<div class="property-type-image"> <a href="property-type/villa/index.html" title="Kamar Mandi"> <img width="570" height="570" src="assets/wp-content/uploads/2017/01/kamarmandi.jpg" alt="Kamar Mandi" title="Kamar Mandi"> </a></div>
+												<div class="property-type-image"> <a href="property-type/villa/index.html" title="Kamar Mandi"> <img width="570" height="570" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/01/kamarmandi.jpg" alt="Kamar Mandi" title="Kamar Mandi"> </a></div>
 												<div class="property-type-info">
 													<div class="property-title"> <a href="property-type/villa/index.html" title="Kamar Mandi"> Kamar Mandi </a></div>
 													<div class="property-count"><span>10</span> Properties</div>
@@ -526,7 +526,7 @@
 													<div class="wpb_wrapper">
 														<div class="ere-property-type ">
 															<div class="property-type-inner">
-																<div class="property-type-image"> <a href="property-type/apartment/index.html" title="Tempat Wudhu"> <img width="570" height="270" src="assets/wp-content/uploads/2017/01/tempatwudhu.jpg" alt="Tempat Wudhu" title="Tempat Wudhu"> </a></div>
+																<div class="property-type-image"> <a href="property-type/apartment/index.html" title="Tempat Wudhu"> <img width="570" height="270" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/01/tempatwudhu.jpg" alt="Tempat Wudhu" title="Tempat Wudhu"> </a></div>
 																<div class="property-type-info">
 																	<div class="property-title"> <a href="property-type/apartment/index.html" title="Tempat Wudhu">Tempat Wudhu</a></div>
 																	<div class="property-count"><span>5</span> Properties</div>
@@ -542,7 +542,7 @@
 													<div class="wpb_wrapper">
 														<div class="ere-property-type ">
 															<div class="property-type-inner">
-																<div class="property-type-image"> <a href="property-type/house/index.html" title="Parkir"> <img width="570" height="570" src="assets/wp-content/uploads/2017/01/tempatparkir.jpg" alt="Parkir" title="Parkir"> </a></div>
+																<div class="property-type-image"> <a href="property-type/house/index.html" title="Parkir"> <img width="570" height="570" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/01/tempatparkir.jpg" alt="Parkir" title="Parkir"> </a></div>
 																<div class="property-type-info">
 																	<div class="property-title"> <a href="property-type/house/index.html" title="Parkir">Parkir </a></div>
 																	<div class="property-count"><span>15</span> Properties</div>
@@ -558,7 +558,7 @@
 													<div class="wpb_wrapper">
 														<div class="ere-property-type ">
 															<div class="property-type-inner">
-																<div class="property-type-image"> <a href="property-type/farm/index.html" title="Mimbar"> <img width="570" height="570" src="assets/wp-content/uploads/2017/01/mimbarmasjid.jpg" alt="Mimbar" title="Mimbar"> </a></div>
+																<div class="property-type-image"> <a href="property-type/farm/index.html" title="Mimbar"> <img width="570" height="570" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/01/mimbarmasjid.jpg" alt="Mimbar" title="Mimbar"> </a></div>
 																<div class="property-type-info">
 																	<div class="property-title"> <a href="property-type/farm/index.html" title="Mimbar">Mimbar</a></div>
 																	<div class="property-count"><span>1</span> Property</div>
@@ -593,7 +593,7 @@
 														<div class="wpb_single_image wpb_content_element vc_align_right">
 															<figure class="wpb_wrapper vc_figure">
 															<div class="vc_single_image-wrapper vc_box_border_grey">
-																<img class="vc_single_image-img " src="wp-content/uploads/2016/12/iphone-white.png" width="207" height="545" alt="iphone-white" title="iphone-white"/>
+																<img class="vc_single_image-img " src="<?= base_url('assets/'); ?>wp-content/uploads/2016/12/iphone-white.png" width="207" height="545" alt="iphone-white" title="iphone-white"/>
 															</div>
 															</figure>
 														</div>
@@ -606,7 +606,7 @@
 														<div class="wpb_single_image wpb_content_element vc_align_right sm-text-left">
 															<figure class="wpb_wrapper vc_figure">
 															<div class="vc_single_image-wrapper vc_box_border_grey">
-																<img class="vc_single_image-img " src="wp-content/uploads/2016/12/iphone-black-207x545.png" width="207" height="545" alt="iphone-black" title="iphone-black"/>
+																<img class="vc_single_image-img " src="<?= base_url('assets/'); ?>wp-content/uploads/2016/12/iphone-black-207x545.png" width="207" height="545" alt="iphone-black" title="iphone-black"/>
 															</div>
 															</figure>
 														</div>
@@ -690,27 +690,27 @@
 										<div class="g5plus-clients owl-carousel owl-nav-top-right" data-plugin-options='{"autoHeight": true, "dots": false, "nav": true, "responsive": {"0" : {"items" : 1}, "481" : {"items" : 2}, "768" : {"items" : 3}, "992" : {"items" : 4}, "1200" : {"items" : 4}}}'>
 											<div class='clients-item ' style="opacity: 1;">
 												<div class="clients-item-inner ">
-													<img alt="partner-04" src="wp-content/uploads/2016/11/partner-04.png"/>
+													<img alt="partner-04" src="<?= base_url('assets/'); ?>wp-content/uploads/2016/11/partner-04.png"/>
 												</div>
 											</div>
 											<div class='clients-item ' style="opacity: 1;">
 												<div class="clients-item-inner ">
-													<img alt="partner-03" src="wp-content/uploads/2016/11/partner-03.png"/>
+													<img alt="partner-03" src="<?= base_url('assets/'); ?>wp-content/uploads/2016/11/partner-03.png"/>
 												</div>
 											</div>
 											<div class='clients-item ' style="opacity: 1;">
 												<div class="clients-item-inner ">
-													<img alt="partner-02" src="wp-content/uploads/2016/11/partner-02.png"/>
+													<img alt="partner-02" src="<?= base_url('assets/'); ?>wp-content/uploads/2016/11/partner-02.png"/>
 												</div>
 											</div>
 											<div class='clients-item ' style="opacity: 1;">
 												<div class="clients-item-inner ">
-													<img alt="partner-01" src="wp-content/uploads/2016/11/partner-01.png"/>
+													<img alt="partner-01" src="<?= base_url('assets/'); ?>wp-content/uploads/2016/11/partner-01.png"/>
 												</div>
 											</div>
 											<div class='clients-item ' style="opacity: 1;">
 												<div class="clients-item-inner ">
-													<img alt="partner-14" src="wp-content/uploads/2016/11/partner-14.png"/>
+													<img alt="partner-14" src="<?= base_url('assets/'); ?>wp-content/uploads/2016/11/partner-14.png"/>
 												</div>
 											</div>
 										</div>

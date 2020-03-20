@@ -7,11 +7,11 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <script src="../assets/cdn-cgi/apps/head/2oc_RD5SS6wgN5SiQnSEnWVNHg8.js"></script>
-    <link rel="profile" href="../assets/https://gmpg.org/xfn/11" />
-    <link rel="shortcut icon" href="../assets/wp-content/themes/g5-beyot/assets/images/favicon.ico" />
+    <script src="<?= base_url('assets/'); ?>cdn-cgi/apps/head/2oc_RD5SS6wgN5SiQnSEnWVNHg8.js"></script>
+    <link rel="profile" href="<?= base_url('assets/'); ?>https://gmpg.org/xfn/11" />
+    <link rel="shortcut icon" href="<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/images/favicon.ico" />
     <title>Masjid</title>
-    <link rel="stylesheet" href="../assets/wp-content/cache/min/1/3d63b7490bab1a2b80d3453f51a8956d.css" data-minify="1" />
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>wp-content/cache/min/1/3d63b7490bab1a2b80d3453f51a8956d.css" data-minify="1" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <script>
         /* <![CDATA[ */
@@ -24,8 +24,8 @@
 
         (function() {
             var wf = document.createElement('script');
-            wf.src = '../assets/ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
-            wf.type = '../assets/text/javascript';
+            wf.src = '<?= base_url('assets/'); ?>ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+            wf.type = '<?= base_url('assets/'); ?>text/javascript';
             wf.async = 'true';
             var s = document.getElementsByTagName('script')[0];
             s.parentNode.insertBefore(wf, s);
@@ -84,9 +84,9 @@
             }]
         }
     </script>
-    <link rel="alternate" type="application/rss+xml" title="Beyot &raquo; Feed" href="../assets/feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="Beyot &raquo; Comments Feed" href="../assets/comments/feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="Beyot &raquo; Admin-1 Comments Feed" href="../assets/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Beyot &raquo; Feed" href="<?= base_url('assets/'); ?>feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Beyot &raquo; Comments Feed" href="<?= base_url('assets/'); ?>comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Beyot &raquo; Admin-1 Comments Feed" href="<?= base_url('assets/'); ?>feed/index.html" />
     <style type="text/css">
         img.wp-smiley,
         img.emoji {
@@ -104,11 +104,11 @@
     <!--[if lt IE 9]>
 <link rel='stylesheet' id='vc_lte_ie9-css'  href='https://themes.g5plus.net/beyot/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.5' type='text/css' media='screen' />
 <![endif]-->
-    <script type='text/javascript' src='../assets/wp-includes/js/jquery/jquery4a5f.js?ver=1.12.4-wp'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
-    <link rel='https://api.w.org/' href='../assets/wp-json/index.html' />
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/jquery/jquery4a5f.js?ver=1.12.4-wp'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+    <link rel='https://api.w.org/' href='<?= base_url('assets/'); ?>wp-json/index.html' />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../assets/wp-includes/wlwmanifest.xml" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="<?= base_url('assets/'); ?>wp-includes/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 5.3.2" />
     <link rel='shortlink' href='indexc725.html?p=645' />
     <style id='xmenu_custom_style'></style>
@@ -145,11 +145,11 @@
                                         <div class="submit-property"><a href="new-property/index.html" title="Submit Property"><i class="icon-office2 accent-color"></i> Submit Property</a></div>
                                         <div id="lang_sel">
                                             <ul>
-                                                <li> <a href="#" class="lang_sel_sel icl-en"> <img class="iclflag" src="../assets/wp-content/uploads/2017/03/en.png" alt="en" title="English">&nbsp;&nbsp;English </a>
+                                                <li> <a href="#" class="lang_sel_sel icl-en"> <img class="iclflag" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/03/en.png" alt="en" title="English">&nbsp;&nbsp;English </a>
                                                     <ul>
-                                                        <li class="icl-fr"> <a href="#"> <img class="iclflag" src="../assets/wp-content/uploads/2017/03/fr.png" alt="fr" title="French">&nbsp;French </a></li>
-                                                        <li class="icl-de"> <a href="#"> <img class="iclflag" src="../assets/wp-content/uploads/2017/03/de.png" alt="de" title="German">&nbsp;German </a></li>
-                                                        <li class="icl-ja"> <a href="#"> <img class="iclflag" src="../assets/wp-content/uploads/2017/03/ja.png" alt="ja" title="Japanese">&nbsp;Japanese </a></li>
+                                                        <li class="icl-fr"> <a href="#"> <img class="iclflag" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/03/fr.png" alt="fr" title="French">&nbsp;French </a></li>
+                                                        <li class="icl-de"> <a href="#"> <img class="iclflag" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/03/de.png" alt="de" title="German">&nbsp;German </a></li>
+                                                        <li class="icl-ja"> <a href="#"> <img class="iclflag" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/03/ja.png" alt="ja" title="Japanese">&nbsp;Japanese </a></li>
                                                     </ul>
                                                 </li>
                                             </ul>
@@ -173,7 +173,7 @@
                     <div class="container">
                         <div class="header-above-inner container-inner clearfix">
                             <div class="logo-header">
-                                <a class="no-sticky" href="index.html" title="Beyot-Real Estate Listings, Homes For Sale, Housing Data"><img src="../assets/wp-content/uploads/2016/11/Logo.png" alt="Beyot-Real Estate Listings, Homes For Sale, Housing Data"/></a>
+                                <a class="no-sticky" href="index.html" title="Beyot-Real Estate Listings, Homes For Sale, Housing Data"><img src="<?= base_url('assets/'); ?>wp-content/uploads/2016/11/Logo.png" alt="Beyot-Real Estate Listings, Homes For Sale, Housing Data"/></a>
                             </div>
                             <nav class="primary-menu">
                                 <ul id="main-menu" class="main-menu x-nav-menu x-nav-menu_primary-menu x-animate-sign-flip">
@@ -320,7 +320,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="wpb_single_image wpb_content_element vc_align_left">
                                             <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper vc_box_border_grey"><img class="vc_single_image-img " src="../assets/wp-content/uploads/2016/11/icon-letter.png" width="69" height="69" alt="icon-letter" title="icon-letter" /></div>
+                                                <div class="vc_single_image-wrapper vc_box_border_grey"><img class="vc_single_image-img " src="<?= base_url('assets/'); ?>wp-content/uploads/2016/11/icon-letter.png" width="69" height="69" alt="icon-letter" title="icon-letter" /></div>
                                             </figure>
                                         </div>
                                     </div>
@@ -528,7 +528,7 @@
                             </style>
                             <div class="wp-social-login-widget">
                                 <div class="wp-social-login-connect-with">Connect with:</div>
-                                <div class="wp-social-login-provider-list"> <a rel="nofollow" href="wp-loginb973.html?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Facebook&amp;redirect_to=https%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fagent%2Farafa-el-sherief%2F" title="Connect with Facebook" class="wp-social-login-provider wp-social-login-provider-facebook" data-provider="Facebook"> <img alt="Facebook" title="Connect with Facebook" src="wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/facebook.png" /> </a> <a rel="nofollow" href="wp-login0b80.html?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Google&amp;redirect_to=https%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fagent%2Farafa-el-sherief%2F" title="Connect with Google" class="wp-social-login-provider wp-social-login-provider-google" data-provider="Google"> <img alt="Google" title="Connect with Google" src="wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/google.png" /> </a> <a rel="nofollow" href="wp-logineb90.html?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Twitter&amp;redirect_to=https%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fagent%2Farafa-el-sherief%2F" title="Connect with Twitter" class="wp-social-login-provider wp-social-login-provider-twitter" data-provider="Twitter"> <img alt="Twitter" title="Connect with Twitter" src="wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/twitter.png" /> </a></div>
+                                <div class="wp-social-login-provider-list"> <a rel="nofollow" href="wp-loginb973.html?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Facebook&amp;redirect_to=https%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fagent%2Farafa-el-sherief%2F" title="Connect with Facebook" class="wp-social-login-provider wp-social-login-provider-facebook" data-provider="Facebook"> <img alt="Facebook" title="Connect with Facebook" src="<?= base_url('assets/'); ?>wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/facebook.png" /> </a> <a rel="nofollow" href="wp-login0b80.html?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Google&amp;redirect_to=https%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fagent%2Farafa-el-sherief%2F" title="Connect with Google" class="wp-social-login-provider wp-social-login-provider-google" data-provider="Google"> <img alt="Google" title="Connect with Google" src="<?= base_url('assets/'); ?>wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/google.png" /> </a> <a rel="nofollow" href="wp-logineb90.html?action=wordpress_social_authenticate&amp;mode=login&amp;provider=Twitter&amp;redirect_to=https%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fagent%2Farafa-el-sherief%2F" title="Connect with Twitter" class="wp-social-login-provider wp-social-login-provider-twitter" data-provider="Twitter"> <img alt="Twitter" title="Connect with Twitter" src="wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/twitter.png" /> </a></div>
                                 <div class="wp-social-login-widget-clearing"></div>
                             </div>
                         </div>
@@ -665,14 +665,14 @@
             "cached": "1"
         }; /* ]]> */
     </script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/contact-form-7/includes/js/scriptsb62d.js?ver=5.1.6'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/assets/packages/bootstrap/js/bootstrap.min5589.js?ver=3.4.1'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/assets/js/jquery.validate.min2c75.js?ver=1.17.0'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/imagesloaded.min55a0.js?ver=3.2.0'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/contact-form-7/includes/js/scriptsb62d.js?ver=5.1.6'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/packages/bootstrap/js/bootstrap.min5589.js?ver=3.4.1'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/jquery.validate.min2c75.js?ver=1.17.0'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/imagesloaded.min55a0.js?ver=3.2.0'></script>
     <script type='text/javascript' src='https://maps-api-ssl.google.com/maps/api/js?libraries=places&amp;language=en_US&amp;key=AIzaSyDiMIj9qJw-InawUWnu7kUK4GjDQ7dktMQ&amp;ver=1.9.4'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/assets/js/infobox.min576c.js?ver=1.1.13'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/assets/packages/owl-carousel/owl.carousel.min3c94.js?ver=2.1.0'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/underscore.min4511.js?ver=1.8.3'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/infobox.min576c.js?ver=1.1.13'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/packages/owl-carousel/owl.carousel.min3c94.js?ver=2.1.0'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/underscore.min4511.js?ver=1.8.3'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var _wpUtilSettings = {
@@ -681,18 +681,18 @@
             }
         }; /* ]]> */
     </script>
-    <script type='text/javascript' src='../assets/wp-includes/js/wp-util.min9dff.js?ver=5.3.2'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/jquery/ui/core.mine899.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/jquery/ui/widget.mine899.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/jquery/ui/mouse.mine899.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/jquery/ui/slider.mine899.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/jquery/ui/resizable.mine899.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/jquery/ui/draggable.mine899.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/jquery/ui/button.mine899.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/jquery/ui/position.mine899.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/jquery/ui/dialog.mine899.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/jquery/ui/sortable.mine899.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/assets/packages/jquery-ui/jquery.ui.touch-punch.minf096.js?ver=0.2.3'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/wp-util.min9dff.js?ver=5.3.2'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/jquery/ui/core.mine899.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/jquery/ui/widget.mine899.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/jquery/ui/mouse.mine899.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/jquery/ui/slider.mine899.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/jquery/ui/resizable.mine899.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/jquery/ui/draggable.mine899.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/jquery/ui/button.mine899.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/jquery/ui/position.mine899.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/jquery/ui/dialog.mine899.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/jquery/ui/sortable.mine899.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/packages/jquery-ui/jquery.ui.touch-punch.minf096.js?ver=0.2.3'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var ere_main_vars = {
@@ -706,7 +706,7 @@
             "thousands_sep": ","
         }; /* ]]> */
     </script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/assets/js/ere-main.minde48.js?ver=1.9.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/ere-main.minde48.js?ver=1.9.4'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var ere_compare_vars = {
@@ -717,22 +717,22 @@
             "alert_not_found": "Compare Page Not Found!"
         }; /* ]]> */
     </script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/assets/js/property/ere-compare.minde48.js?ver=1.9.4'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/assets/js/ere-carousel.minde48.js?ver=1.9.4'></script>
-    <script type='text/javascript' src='../assets/wp-includes/js/comment-reply.min9dff.js?ver=5.3.2'></script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/plugins/light-gallery/js/lightgallery-all.min8d77.js?ver=1.2.18'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min52c7.js?ver=6.0.5'></script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/plugins/perfect-scrollbar/js/perfect-scrollbar.jquery.min4991.js?ver=0.6.11'></script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/plugins/waypoints/jquery.waypoints.minf39e.js?ver=4.0.1'></script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/plugins/modernizr/modernizr.min3b71.js?ver=3.5.0'></script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/plugins/dialogfx/dialogfx.min8a54.js?ver=1.0.0'></script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/plugins/infinite-scroll/infinite-scroll.pkgd.min7406.js?ver=2.0.1'></script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/plugins/jquery.nav/jquery.nav.min6e0e.js?ver=3.0.0'></script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/plugins/stellar/stellar.min343b.js?ver=0.6.2'></script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/plugins/countdown/countdown.min343b.js?ver=0.6.2'></script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/plugins/waypoints/jquery.waypoints.minf39e.js?ver=4.0.1'></script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/plugins/matchmedia/matchmedia.minf39e.js?ver=4.0.1'></script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/plugins/hc-sticky/jquery.hc-sticky.min6058.js?ver=1.2.43'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/property/ere-compare.minde48.js?ver=1.9.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/ere-carousel.minde48.js?ver=1.9.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-includes/js/comment-reply.min9dff.js?ver=5.3.2'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/plugins/light-gallery/js/lightgallery-all.min8d77.js?ver=1.2.18'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min52c7.js?ver=6.0.5'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/plugins/perfect-scrollbar/js/perfect-scrollbar.jquery.min4991.js?ver=0.6.11'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/plugins/waypoints/jquery.waypoints.minf39e.js?ver=4.0.1'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/plugins/modernizr/modernizr.min3b71.js?ver=3.5.0'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/plugins/dialogfx/dialogfx.min8a54.js?ver=1.0.0'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/plugins/infinite-scroll/infinite-scroll.pkgd.min7406.js?ver=2.0.1'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/plugins/jquery.nav/jquery.nav.min6e0e.js?ver=3.0.0'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/plugins/stellar/stellar.min343b.js?ver=0.6.2'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/plugins/countdown/countdown.min343b.js?ver=0.6.2'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/plugins/waypoints/jquery.waypoints.minf39e.js?ver=4.0.1'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/plugins/matchmedia/matchmedia.minf39e.js?ver=4.0.1'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/plugins/hc-sticky/jquery.hc-sticky.min6058.js?ver=1.2.43'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var g5plus_framework_constant = {
@@ -745,12 +745,12 @@
             "site_url": "https:\/\/themes.g5plus.net\/beyot"
         }; /* ]]> */
     </script>
-    <script type='text/javascript' src='../assets/wp-content/themes/g5-beyot/assets/js/main.min9dff.js?ver=5.3.2'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/assets/js/agent/ere-single-agent.minde48.js?ver=1.9.4'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/assets/js/star-rating.minfa0c.js?ver=4.0.3'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/templates/shortcodes/agent/assets/js/agent.minde48.js?ver=1.9.4'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min52c7.js?ver=6.0.5'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/beyot-framework/core/xmenu/assets/js/app.min0e03.js?ver=1.0.0.0'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/themes/g5-beyot/assets/js/main.min9dff.js?ver=5.3.2'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/agent/ere-single-agent.minde48.js?ver=1.9.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/star-rating.minfa0c.js?ver=4.0.3'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/templates/shortcodes/agent/assets/js/agent.minde48.js?ver=1.9.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min52c7.js?ver=6.0.5'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/beyot-framework/core/xmenu/assets/js/app.min0e03.js?ver=1.0.0.0'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var ere_login_vars = {
@@ -758,7 +758,7 @@
             "loading": "Sending user info, please wait..."
         }; /* ]]> */
     </script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/assets/js/account/ere-login.minde48.js?ver=1.9.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/account/ere-login.minde48.js?ver=1.9.4'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var ere_register_vars = {
@@ -766,13 +766,13 @@
             "loading": "Sending user info, please wait..."
         }; /* ]]> */
     </script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/essential-real-estate/public/assets/js/account/ere-register.minde48.js?ver=1.9.4'></script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/theme-showcase/assets/frontend/showcase9dff.js?ver=5.3.2'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/js/account/ere-register.minde48.js?ver=1.9.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/theme-showcase/assets/frontend/showcase9dff.js?ver=5.3.2'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var mc4wp_forms_config = []; /* ]]> */
     </script>
-    <script type='text/javascript' src='../assets/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min125b.js?ver=4.7.4'></script>
+    <script type='text/javascript' src='<?= base_url('assets/'); ?>wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min125b.js?ver=4.7.4'></script>
     <!--[if lte IE 9]>
 <script type='text/javascript' src='https://themes.g5plus.net/beyot/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.7.4'></script>
 <![endif]-->
