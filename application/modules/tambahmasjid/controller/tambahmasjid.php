@@ -1,14 +1,14 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class profile extends MX_Controller
+class tambahmasjid extends MX_Controller
 {
 
     function __construct()
     {
         parent::__construct();
         // model
-        $this->load->model('m_profile');
+        $this->load->model('m_masjid');
         $this->load->model('login/m_session');
     }
 
@@ -17,38 +17,37 @@ class profile extends MX_Controller
     function index()
     {
         $data = array(
-            'title'         => "My Profile",
-            'namamodule'     => "profile",
-            'namafileview'     => "V_profile",
-            'tampil'        => $this->m_profile->tampil(),
+            'namamodule'     => "tambahmasjid",
+            'namafileview'   => "v_masjid",
+            'tampil'         => $this->m_masjid->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }
 
     function tambah()
     {
-        $this->m_profile->tambah();
+        $thismasjid->tambah();
         redirect('user');
     }
 
     function edit()
     {
-        $this->m_profile->edit();
+        $thismasjid->edit();
         redirect('user');
     }
 
     function hapus($id)
     {
-        $this->m_profile->hapus($id);
+        $thismasjid->hapus($id);
         redirect('user');
     }
 
     function cari()
     {
         $data = array(
-            'namamodule'     => "profile",
-            'namafileview'     => "V_profile",
-            'tampil'        => $this->m_profile->cari(),
+            'namamodule'    => "tambahmasjid",
+            'namafileview'  =>  "V_masjid",
+            'tampil'        => $thismasjid->cari(),
         );
         echo Modules::run('template/tampilCore', $data);
     }

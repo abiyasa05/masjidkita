@@ -1,5 +1,4 @@
 <div id="page-content">
-
     <div class="form-group" style="padding-bottom: 2%">
         <form method="post" action="<?php echo site_url('kegiatan/cari') ?>">
             <div class="col-md-2" style="padding: 0px">
