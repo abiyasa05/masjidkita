@@ -1,14 +1,14 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class home extends MX_Controller
+class tambahmasjid extends MX_Controller
 {
 
     function __construct()
     {
         parent::__construct();
         // model
-        $this->load->model('M_home');
+        $this->load->model('m_masjid');
         $this->load->model('login/m_session');
     }
 
@@ -17,42 +17,37 @@ class home extends MX_Controller
     function index()
     {
         $data = array(
-<<<<<<< HEAD
-            'title'         => "Home - Masjid",
-=======
-            'title'         => "Home",
->>>>>>> 7d9c35d1c16385596c6715805feb34c86cba268e
-            'namamodule'       => "home",
-            'namafileview'     => "V_home",
-            'tampil'        => $this->M_home->tampil(),
+            'namamodule'     => "tambahmasjid",
+            'namafileview'   => "v_masjid",
+            'tampil'         => $this->m_masjid->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }
 
     function tambah()
     {
-        $this->M_home->tambah();
+        $thismasjid->tambah();
         redirect('user');
     }
 
     function edit()
     {
-        $this->M_home->edit();
+        $thismasjid->edit();
         redirect('user');
     }
 
     function hapus($id)
     {
-        $this->M_home->hapus($id);
+        $thismasjid->hapus($id);
         redirect('user');
     }
 
     function cari()
     {
         $data = array(
-            'namamodule'     =>  "home",
-            'namafileview'     => "V_home",
-            'tampil'        => $this->M_home->cari(),
+            'namamodule'    => "tambahmasjid",
+            'namafileview'  =>  "V_masjid",
+            'tampil'        => $thismasjid->cari(),
         );
         echo Modules::run('template/tampilCore', $data);
     }
