@@ -17,6 +17,7 @@ class profile extends MX_Controller
     function index()
     {
         $data = array(
+            'title'         => "My Profile",
             'namamodule'     => "profile",
             'namafileview'     => "V_profile",
             'tampil'        => $this->m_profile->tampil(),
