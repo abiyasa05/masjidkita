@@ -11,13 +11,13 @@ class M_home extends CI_Model
 
     function tambah()
     {
-        
+
         $id_masjid_user    = $this->input->post('id_masjid_user');
         $tanggal_user   = $this->input->post('tanggal_user');
         $waktu_user   = $this->input->post('waktu_user');
         $penanggung_jawab_acara   = $this->input->post('penanggung_jawab_acara');
         $deskripsi_user   = $this->input->post('deskripsi_user');
-       
+
 
 
 

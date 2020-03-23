@@ -1,21 +1,22 @@
 
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
-class Data_Masjid extends MX_Controller {
+class Data_Masjid extends MX_Controller
+{
 
 	function __construct()
 	{
 		parent::__construct();
 		// model
-		 $this->load->model('M_data_masjid');
-		 $this->load->model('login/m_session');
-    }
-    // index
+		$this->load->model('M_data_masjid');
+		$this->load->model('login/m_session');
+	}
+	// index
 	function index()
 	{
 		$data = array(
-			'title' 		=> "tambah_masjid"
+			'title' 		=> "tambah_masjid",
 			'namamodule' 	=> "Data_Masjid",
 			'namafileview' 	=> "V_data_masjid",
 			'tampil'		=> $this->M_data_masjid->tampildatamasjid(),
