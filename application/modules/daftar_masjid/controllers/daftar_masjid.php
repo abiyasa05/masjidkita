@@ -17,7 +17,7 @@ class daftar_masjid extends MX_Controller
     function index()
     {
         $data = array(
-            'title'         => "Daftar Masjid",
+            'title'         => "daftar_masjid",
             'namamodule'     => "daftar_masjid",
             'namafileview'     => "V_daftar_masjid",
             'tampil'        => $this->m_daftar_masjid->tampil(),
