@@ -8,7 +8,7 @@
                     <h1>My Profile</h1>
                 </div>
                 <ul class="breadcrumbs">
-                    <li><a href="http://themes.g5plus.net/beyot/" class="home">Home</a></li>
+                    <li><a href="home" class="home">Home</a></li>
                     <li><span>My Profile</span></li>
                 </ul>
             </div>
