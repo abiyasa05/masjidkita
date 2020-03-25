@@ -1,6 +1,6 @@
 
 		<section class="page-title page-title-background" style="padding-top:120px;padding-bottom:120px">
-		<div class="page-title-background page-title-parallax" style="background-image: url(http://localhost/beyot/themes.g5plus.net/beyot/wp-content/plugins/beyot-framework/assets/images/theme-options/page-title.jpg)" data-stellar-background-ratio="0.5">
+		<div class="page-title-background page-title-parallax" style="background-image: url('<?= base_url('assets/'); ?>wp-content/plugins/beyot-framework/assets/images/theme-options/page-title.jpg')" data-stellar-background-ratio="0.5">
 		</div>
 		<div class="container">
 			<div class="page-title-inner">
@@ -48,7 +48,7 @@
 											<figure class="wpb_wrapper vc_figure">
 											<div class="vc_single_image-wrapper vc_box_border_grey">
 												<br></br>
-												<img width="568" height="667" src="http://localhost/beyot/themes.g5plus.net/beyot/wp-content/uploads/2016/12/background-image-04.png" class="vc_single_image-img attachment-full" alt="" srcset="http://localhost/beyot/themes.g5plus.net/beyot/wp-content/uploads/2016/12/background-image-04.png 568w, http://themes.g5plus.net/beyot/wp-content/uploads/2016/12/background-image-04-255x300.png 255w" sizes="(max-width: 568px) 100vw, 568px"/>
+												<img width="568" height="667" src="<?= base_url('assets/'); ?>wp-content/uploads/2016/12/background-image-04.png" class="vc_single_image-img attachment-full" alt="" srcset="<?= base_url('assets/'); ?>wp-content/uploads/2016/12/background-image-04.png 568w, http://themes.g5plus.net/beyot/wp-content/uploads/2016/12/background-image-04-255x300.png 255w" sizes="(max-width: 568px) 100vw, 568px"/>
 											</div>
 											</figure>
 										</div>
