@@ -9,7 +9,7 @@
 				</div>
 				<ul class="breadcrumbs">
 					<li>
-						<a href="home" class="home">Home</a>
+						<a href="http://themes.g5plus.net/beyot/" class="home">Home</a>
 					</li>
 					<li>
 						<span>About Us</span>
