@@ -9,7 +9,7 @@
 				</div>
 				<ul class="breadcrumbs">
 					<li>
-						<a href="../index.html" class="home">Home</a>
+						<a href="home" class="home">Home</a>
 					</li>
 					<li>
 						<span>Faqs</span>
