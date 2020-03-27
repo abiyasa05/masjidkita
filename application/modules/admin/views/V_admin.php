@@ -8,7 +8,7 @@
                             <h1>Detail Admin-1</h1>
                         </div>
                         <ul class="breadcrumbs">
-                            <li><a href="index.html" class="home">Home</a></li>
+                            <li><a href="<?= base_url('home'); ?>" class="home">Home</a></li>
                             <li><a href="../index.html" title="Agents">Agents</a></li>
                             <li><span>Admin-1</span></li>
                         </ul>
