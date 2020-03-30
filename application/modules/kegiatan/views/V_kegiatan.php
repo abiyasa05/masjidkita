@@ -47,7 +47,7 @@
 
             <div class="panel widget" style="height:250px">
                 <div class="widget-header bg-default">
-                    <img class="widget-bg img-responsive" src="<?php echo base_url() ?>assets/img/<?php echo $res->foto_kegiatan ?>" alt="Image">
+                    <img class="widget-bg img-responsive" src="../assets/img/<?php echo $res->foto_kegiatan ?>" alt="Image">
                 </div>
                 <div class="text-center" style="margin-top:15px;">
                     <p class="text-muted mar-no" style="height:20px;">
