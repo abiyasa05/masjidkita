@@ -8,7 +8,7 @@ class Register extends MX_Controller
     {
         parent::__construct();
         // model
-        $this->load->model('m_register');
+        $this->load->model('M_register');
         $this->load->model('login/m_session');
     }
 
@@ -17,16 +17,16 @@ class Register extends MX_Controller
     function index()
     {
         $data = array(
-            'namamodule'     =>  "register",
-            'namafileview'     => "v_register",
-            'tampil'        => $this->m_register->tampil(),
+            'namamodule'     =>  "Register",
+            'namafileview'     => "V_register",
+            'tampil'        => $this->M_register->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }
 
     function tambah()
     {
-        $this->m_register->tambah();
+        $this->M_register->tambah();
         redirect('user');
     }
 

@@ -19,14 +19,14 @@ class advance extends MX_Controller
         $data = array(
             'namamodule'     => "advance",
             'namafileview'     => "V_advance",
-            'tampil'        => $this->m_advance->tampil(),
+            'tampil'        => $this->M_advance->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }
 
     function tambah()
     {
-        $this->m_advance->tambah();
+        $this->M_advance->tambah();
         redirect('user');
     }
 

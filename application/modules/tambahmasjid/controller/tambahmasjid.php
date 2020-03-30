@@ -8,7 +8,7 @@ class tambahmasjid extends MX_Controller
     {
         parent::__construct();
         // model
-        $this->load->model('m_masjid');
+        $this->load->model('M_masjid');
         $this->load->model('login/m_session');
     }
 
@@ -18,8 +18,8 @@ class tambahmasjid extends MX_Controller
     {
         $data = array(
             'namamodule'     => "tambahmasjid",
-            'namafileview'   => "v_masjid",
-            'tampil'         => $this->m_masjid->tampil(),
+            'namafileview'   => "V_masjid",
+            'tampil'         => $this->M_masjid->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }

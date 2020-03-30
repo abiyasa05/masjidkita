@@ -8,7 +8,7 @@ class daftar_masjid extends MX_Controller
     {
         parent::__construct();
         // model
-        $this->load->model('m_daftar_masjid');
+        $this->load->model('M_daftar_masjid');
         $this->load->model('login/m_session');
     }
 
@@ -20,14 +20,14 @@ class daftar_masjid extends MX_Controller
             'title'         => "daftar_masjid",
             'namamodule'     => "daftar_masjid",
             'namafileview'     => "V_daftar_masjid",
-            'tampil'        => $this->m_daftar_masjid->tampil(),
+            'tampil'        => $this->M_daftar_masjid->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }
 
     function tambah()
     {
-        $this->m_daftar_masjid->tambah();
+        $this->M_daftar_masjid->tambah();
         redirect('user');
     }
 

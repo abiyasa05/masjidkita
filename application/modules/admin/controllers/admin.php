@@ -8,7 +8,7 @@ class admin extends MX_Controller
     {
         parent::__construct();
         // model
-        $this->load->model('m_admin');
+        $this->load->model('M_admin');
         $this->load->model('login/m_session');
     }
 
@@ -19,7 +19,7 @@ class admin extends MX_Controller
         $data = array(
             'namamodule'     => "admin",
             'namafileview'     => "V_admin",
-            'tampil'        => $this->m_admin->tampil(),
+            'tampil'        => $this->M_admin->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }

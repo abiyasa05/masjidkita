@@ -1,6 +1,6 @@
 <div id="wrapper-content" class="clearfix ">
     <section class="page-title page-title-background" style="padding-top:120px;padding-bottom:120px">
-        <div class="page-title-background page-title-parallax" style="background-image: url('<?= base_url('assets/'); ?>wp-content/plugins/beyot-framework/assets/images/theme-options/page-title.jpg')" data-stellar-background-ratio="0.5"></div>
+        <div class="page-title-background page-title-parallax" style="background-image: url('../assets/wp-content/plugins/beyot-framework/assets/images/theme-options/page-title.jpg')" data-stellar-background-ratio="0.5"></div>
         <div class="vc_row-background-overlay" style="background-color: rgba(0,0,0,0.68)"></div>
         <div class="container">
             <div class="page-title-inner">
@@ -48,7 +48,7 @@
                                     <div class="ere-property clearfix property-list col-gap-30 list-1-column columns-2 columns-md-2 columns-sm-2 columns-xs-1 columns-mb-1">
                                         <div class="mg-bottom-30 ere-item-wrap ere-property-featured">
                                             <div class="property-inner">
-                                                <div class="property-image"> <img width="330" height="180" src="<?= base_url('assets/'); ?>wp-content/img/istiqlal.jpg" this.src='<?= base_url('assets/'); ?>wp-content/uploads/2017/12/no-image-330x180.jpg' ; alt="Masjid Istiqlal" title="Masjid Istiqlal">
+                                                <div class="property-image"> <img width="330" height="180" src="../assets/wp-content/img/istiqlal.jpg" this.src='../assets/wp-content/uploads/2017/12/no-image-330x180.jpg' ; alt="Masjid Istiqlal" title="Masjid Istiqlal">
                                                     <div class="property-action block-center">
                                                         <div class="block-center-inner">
                                                             <div class="property-view-gallery-wrap" data-toggle="tooltip" title="(3) Photos"> <a data-property-id="4947" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="4947" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="4947" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>
@@ -94,7 +94,7 @@
 
                                         <div class="mg-bottom-30 ere-item-wrap ere-property-featured">
                                             <div class="property-inner">
-                                                <div class="property-image"> <img width="330" height="180" src="<?= base_url('assets/'); ?>wp-content/img/demo/gambar5.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/uploads/2017/12/gambar4.jpg';" alt="Apartment Morden Santa Monica, Los Angeles" title="Apartment Morden Santa Monica, Los Angeles">
+                                                <div class="property-image"> <img width="330" height="180" src="../assets/wp-content/img/demo/gambar5.jpg" onerror="this.src = '../assets/wp-content/uploads/2017/12/gambar4.jpg';" alt="Apartment Morden Santa Monica, Los Angeles" title="Apartment Morden Santa Monica, Los Angeles">
                                                     <div class="property-action block-center">
                                                         <div class="block-center-inner">
                                                             <div class="property-view-gallery-wrap" data-toggle="tooltip" title="(1) Photos"> <a data-property-id="768" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="768" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="768" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>
@@ -140,7 +140,7 @@
                                         </div>
                                         <div class="mg-bottom-30 ere-item-wrap ere-property-featured">
                                             <div class="property-inner">
-                                                <div class="property-image"> <img width="330" height="180" src="<?= base_url('assets/'); ?>wp-content/img/4.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/uploads/2017/12/no-image-330x180.jpg';" alt="Jl. Raya Ngijo Karangploso No.292, Kedawung, Ngijo, Kec. Karang Ploso, Malang, Jawa Timur 65152" title="Jl. Raya Ngijo Karangploso No.292, Kedawung, Ngijo, Kec. Karang Ploso, Malang, Jawa Timur 65152">
+                                                <div class="property-image"> <img width="330" height="180" src="../assets/wp-content/img/4.jpg" onerror="this.src = '../assets/wp-content/uploads/2017/12/no-image-330x180.jpg';" alt="Jl. Raya Ngijo Karangploso No.292, Kedawung, Ngijo, Kec. Karang Ploso, Malang, Jawa Timur 65152" title="Jl. Raya Ngijo Karangploso No.292, Kedawung, Ngijo, Kec. Karang Ploso, Malang, Jawa Timur 65152">
                                                     <div class="property-action block-center">
                                                         <div class="block-center-inner">
                                                             <div class="property-view-gallery-wrap" data-toggle="tooltip" title="(1) Photos"> <a data-property-id="669" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="669" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="669" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>
@@ -186,7 +186,7 @@
                                         </div>
                                         <div class="mg-bottom-30 ere-item-wrap ere-property-featured">
                                             <div class="property-inner">
-                                                <div class="property-image"> <img width="330" height="180" src="<?= base_url('assets/'); ?>wp-content/img/demo/gambar2.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/uploads/2017/12/no-image-330x180.jpg';" alt="Restaurant Jl. A. Yani No.15, Blimbing, Kec. Blimbing, Kota Malang, Jawa Timur 6512" title="Restaurant Jl. A. Yani No.15, Blimbing, Kec. Blimbing, Kota Malang, Jawa Timur 6512">
+                                                <div class="property-image"> <img width="330" height="180" src="../assets/wp-content/img/demo/gambar2.jpg" onerror="this.src = '../assets/wp-content/uploads/2017/12/no-image-330x180.jpg';" alt="Restaurant Jl. A. Yani No.15, Blimbing, Kec. Blimbing, Kota Malang, Jawa Timur 6512" title="Restaurant Jl. A. Yani No.15, Blimbing, Kec. Blimbing, Kota Malang, Jawa Timur 6512">
                                                     <div class="property-action block-center">
                                                         <div class="block-center-inner">
                                                             <div class="property-view-gallery-wrap" data-toggle="tooltip" title="(1) Photos"> <a data-property-id="663" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="663" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="663" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>
@@ -232,7 +232,7 @@
                                         </div>
                                         <div class="mg-bottom-30 ere-item-wrap ere-property-featured">
                                             <div class="property-inner">
-                                                <div class="property-image"> <img width="330" height="180" src="<?= base_url('assets/'); ?>wp-content/img/0.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/img/0.jpg';" alt="Masjid NURUSY SYIFA" title="Masjid NURUSY SYIFA">
+                                                <div class="property-image"> <img width="330" height="180" src="../assets/wp-content/img/0.jpg" onerror="this.src = '../assets/wp-content/img/0.jpg';" alt="Masjid NURUSY SYIFA" title="Masjid NURUSY SYIFA">
                                                     <div class="property-action block-center">
                                                         <div class="block-center-inner">
                                                             <div class="property-view-gallery-wrap" data-toggle="tooltip" title="(1) Photos"> <a data-property-id="657" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="657" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="657" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>
@@ -277,7 +277,7 @@
                                         </div>
                                         <div class="mg-bottom-30 ere-item-wrap ere-property-featured">
                                             <div class="property-inner">
-                                                <div class="property-image"> <img width="330" height="180" src="<?= base_url('assets/'); ?>wp-content/img/istiqomah.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/img/istiqomah.jpg';" alt="Masjid Al-Istiqomah" title="Masjid Al-Istiqomah">
+                                                <div class="property-image"> <img width="330" height="180" src="../assets/wp-content/img/istiqomah.jpg" onerror="this.src = '../assets/wp-content/img/istiqomah.jpg';" alt="Masjid Al-Istiqomah" title="Masjid Al-Istiqomah">
                                                     <div class="property-action block-center">
                                                         <div class="block-center-inner">
                                                             <div class="property-view-gallery-wrap" data-toggle="tooltip" title="(1) Photos"> <a data-property-id="649" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="649" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="649" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>
@@ -323,7 +323,7 @@
                                         </div>
                                         <div class="mg-bottom-30 ere-item-wrap ere-property-featured">
                                             <div class="property-inner">
-                                                <div class="property-image"> <img width="330" height="180" src="<?= base_url('assets/'); ?>wp-content/img/blimbing.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/img/blimbing.jpg';" alt="Masjid Miftahul Jannah" title="Masjid Miftahul Jannah">
+                                                <div class="property-image"> <img width="330" height="180" src="../assets/wp-content/img/blimbing.jpg" onerror="this.src = '../assets/wp-content/img/blimbing.jpg';" alt="Masjid Miftahul Jannah" title="Masjid Miftahul Jannah">
                                                     <div class="property-action block-center">
                                                         <div class="block-center-inner">
                                                             <div class="property-view-gallery-wrap" data-toggle="tooltip" title="(1) Photos"> <a data-property-id="632" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="632" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="632" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>
@@ -369,7 +369,7 @@
                                         </div>
                                         <div class="mg-bottom-30 ere-item-wrap ere-property-featured">
                                             <div class="property-inner">
-                                                <div class="property-image"> <img width="330" height="180" src="<?= base_url('assets/'); ?>wp-content/img/sakinah.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/img/sakinah.jpg';" alt="Masjid As-Sakinah" title="Masjid As-Sakinah">
+                                                <div class="property-image"> <img width="330" height="180" src="../assets/wp-content/img/sakinah.jpg" onerror="this.src = '../assets/wp-content/img/sakinah.jpg';" alt="Masjid As-Sakinah" title="Masjid As-Sakinah">
                                                     <div class="property-action block-center">
                                                         <div class="block-center-inner">
                                                             <div class="property-view-gallery-wrap" data-toggle="tooltip" title="(5) Photos"> <a data-property-id="626" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="626" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="626" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>
@@ -471,7 +471,7 @@
                             <div class="owl-carousel" data-plugin-options='{"items":1, "dots": true, "nav": false, "autoplay": true, "loop": true, "responsive": {}}'>
                                 <div class="property-item">
                                     <div class="property-inner">
-                                        <div class="property-image"> <img width="370" height="180" src="<?= base_url('assets/'); ?>wp-content/uploads/2019/07/download (1).jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/uploads/2017/12/gambar2.jpg';" alt="Masjid An-nur" title="Masjid An-Nur">
+                                        <div class="property-image"> <img width="370" height="180" src="../assets/wp-content/uploads/2019/07/download (1).jpg" onerror="this.src = '../assets/wp-content/uploads/2017/12/gambar2.jpg';" alt="Masjid An-nur" title="Masjid An-Nur">
                                             <div class="property-action block-center">
                                                 <div class="block-center-inner">
                                                     <div class="property-view-gallery-wrap" data-toggle="tooltip" title="(3) Photos"> <a data-property-id="4947" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="4947" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="4947" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>
@@ -489,7 +489,7 @@
                                 </div>
                                 <div class="property-item">
                                     <div class="property-inner">
-                                        <div class="property-image"> <img width="370" height="180" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/02/gambar3.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/uploads/2017/12/no-image-370x180.jpg';" alt="Single House Near, Los Angeles" title="Single House Near, Los Angeles">
+                                        <div class="property-image"> <img width="370" height="180" src="../assets/wp-content/uploads/2017/02/gambar3.jpg" onerror="this.src = '../assets/wp-content/uploads/2017/12/no-image-370x180.jpg';" alt="Single House Near, Los Angeles" title="Single House Near, Los Angeles">
                                             <div class="property-action block-center">
                                                 <div class="block-center-inner">
                                                     <div class="property-view-gallery-wrap" data-toggle="tooltip" title="(5) Photos"> <a data-property-id="771" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="771" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="771" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>
@@ -505,7 +505,7 @@
                                 </div>
                                 <div class="property-item">
                                     <div class="property-inner">
-                                        <div class="property-image"> <img width="370" height="180" src="<?= base_url('assets/'); ?>wp-content/uploads/2017/02/gambar2.jpg" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/uploads/2017/12/gambar4.jpg';" alt="Apartment Morden Santa Monica, Los Angeles" title="Apartment Morden Santa Monica, Los Angeles">
+                                        <div class="property-image"> <img width="370" height="180" src="../assets/wp-content/uploads/2017/02/gambar2.jpg" onerror="this.src = '../assets/wp-content/uploads/2017/12/gambar4.jpg';" alt="Apartment Morden Santa Monica, Los Angeles" title="Apartment Morden Santa Monica, Los Angeles">
                                             <div class="property-action block-center">
                                                 <div class="block-center-inner">
                                                     <div class="property-view-gallery-wrap" data-toggle="tooltip" title="(1) Photos"> <a data-property-id="768" href="javascript:void(0)" class="property-view-gallery"><i class="fa fa-camera"></i></a></div><a href="javascript:void(0)" class="property-favorite" data-property-id="768" data-toggle="tooltip" title="Add to Favorite" data-title-not-favorite="Add to Favorite" data-title-favorited="It is my favorite" data-icon-not-favorite="fa fa-star-o" data-icon-favorited="fa fa-star"><i class="fa fa-star-o"></i></a><a class="compare-property" href="javascript:void(0)" data-property-id="768" data-toggle="tooltip" title="Compare"> <i class="fa fa-plus"></i> </a>

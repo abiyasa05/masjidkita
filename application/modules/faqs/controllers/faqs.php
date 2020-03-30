@@ -19,7 +19,7 @@ class faqs extends MX_Controller
         $data = array(
             'namamodule'     => "faqs",
             'namafileview'     => "V_faqs",
-            'tampil'        => $this->m_faqs->tampil(),
+            'tampil'        => $this->M_faqs->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }

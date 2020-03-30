@@ -18,7 +18,7 @@ class donasi extends MX_Controller
     {
         $data = array(
             'namamodule'    => "donasi",
-            'namafileview'  => "v_donasi",
+            'namafileview'  => "V_donasi",
             'tampil'        => $this->m_donasi->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);

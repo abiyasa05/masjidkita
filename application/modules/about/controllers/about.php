@@ -8,7 +8,7 @@ class about extends MX_Controller
     {
         parent::__construct();
         // model
-        $this->load->model('m_about');
+        $this->load->model('M_about');
         $this->load->model('login/m_session');
     }
 
@@ -19,7 +19,7 @@ class about extends MX_Controller
         $data = array(
             'namamodule'     => "about",
             'namafileview'     => "V_about",
-            'tampil'        => $this->m_about->tampil(),
+            'tampil'        => $this->M_about->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }

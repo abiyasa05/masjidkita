@@ -8,7 +8,7 @@ class Template extends MX_Controller {
 		parent:: __construct();
 		//load model
 
-		$this->load->model('m_template');
+		$this->load->model('M_template');
 		$this->load->model('login/m_session');
 	}
 

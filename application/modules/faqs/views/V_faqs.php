@@ -1,6 +1,6 @@
 <div id="wrapper-content" class="clearfix ">
             <section class="page-title page-title-background" style="padding-top:120px;padding-bottom:120px">
-                <div class="page-title-background page-title-parallax" style="background-image: url('<?= base_url('assets/'); ?>wp-content/plugins/beyot-framework/assets/images/theme-options/page-title.jpg')" data-stellar-background-ratio="0.5"></div>
+                <div class="page-title-background page-title-parallax" style="background-image: url(../assets/wp-content/plugins/beyot-framework/assets/images/theme-options/page-title.jpg')" data-stellar-background-ratio="0.5"></div>
                 <div class="container">
                     <div class="page-title-inner">
                         <div class="page-title-main-info">

@@ -19,14 +19,14 @@ class Favorite extends MX_Controller
         $data = array(
             'namamodule'     => "favorite",
             'namafileview'     => "V_favorite",
-            'tampil'        => $this->m_favorite->tampil(),
+            'tampil'        => $this->M_favorite->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }
 
     function tambah()
     {
-        $this->m_favorite->tambah();
+        $this->M_favorite->tambah();
         redirect('user');
     }
 
