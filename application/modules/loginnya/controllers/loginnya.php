@@ -21,7 +21,7 @@ class loginnya extends MX_Controller {
     {
         $data = array(
             'namamodule'     =>  "loginnya",
-            'namafileview'     => "v_loginnya",
+            'namafileview'     => "V_loginnya",
            
         );
         echo Modules::run('template/tampilCore', $data);

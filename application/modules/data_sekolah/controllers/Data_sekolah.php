@@ -18,7 +18,7 @@ class Data_sekolah extends MX_Controller {
 		$data = array(
 			'namamodule' 	=> "data_sekolah",
 			'namafileview' 	=> "V_data_sekolah",
-			'tampil'		=> $this->m_data_sekolah->tampil(),
+			'tampil'		=> $this->M_data_sekolah->tampil(),
 		);
 		echo Modules::run('template/tampilCore', $data);
 	}

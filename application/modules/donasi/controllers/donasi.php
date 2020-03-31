@@ -8,7 +8,7 @@ class donasi extends MX_Controller
     {
         parent::__construct();
         // model
-        $this->load->model('m_donasi');
+        $this->load->model('M_donasi');
         $this->load->model('login/m_session');
     }
 
@@ -19,7 +19,7 @@ class donasi extends MX_Controller
         $data = array(
             'namamodule'    => "donasi",
             'namafileview'  => "V_donasi",
-            'tampil'        => $this->m_donasi->tampil(),
+            'tampil'        => $this->M_donasi->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }

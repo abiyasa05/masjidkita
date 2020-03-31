@@ -8,7 +8,7 @@ class Favorite extends MX_Controller
     {
         parent::__construct();
         // model
-        $this->load->model('m_favorite');
+        $this->load->model('M_favorite');
         $this->load->model('login/m_session');
     }
 

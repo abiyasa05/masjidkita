@@ -26,7 +26,7 @@ class about extends MX_Controller
 
     function tambah()
     {
-        $this->m_about->tambah();
+        $this->M_about->tambah();
         redirect('user');
     }
 

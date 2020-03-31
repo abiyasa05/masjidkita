@@ -32,13 +32,13 @@ class Register extends MX_Controller
 
     function edit()
     {
-        $this->m_register->edit();
+        $this->M_register->edit();
         redirect('user');
     }
 
     function hapus($id)
     {
-        $this->m_register->hapus($id);
+        $this->M_register->hapus($id);
         redirect('user');
     }
 

@@ -26,7 +26,7 @@ class admin extends MX_Controller
 
     function tambah()
     {
-        $this->m_admin->tambah();
+        $this->M_admin->tambah();
         redirect('user');
     }
 

@@ -8,7 +8,7 @@ class komentar extends MX_Controller
     {
         parent::__construct();
         // model
-        $this->load->model('m_komentar');
+        $this->load->model('M_komentar');
         $this->load->model('login/m_session');
     }
 
@@ -18,8 +18,8 @@ class komentar extends MX_Controller
     {
         $data = array(
             'namamodule'    => "komentar",
-            'namafileview'  => "v_komentar",
-            'tampil'        => $this->m_komentar->tampil(),
+            'namafileview'  => "V_komentar",
+            'tampil'        => $this->M_komentar->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }
