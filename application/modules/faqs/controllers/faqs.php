@@ -8,7 +8,7 @@ class faqs extends MX_Controller
     {
         parent::__construct();
         // model
-        $this->load->model('m_faqs');
+        $this->load->model('M_faqs');
         $this->load->model('login/m_session');
     }
 
@@ -26,7 +26,7 @@ class faqs extends MX_Controller
 
     function tambah()
     {
-        $this->m_faqs->tambah();
+        $this->M_faqs->tambah();
         redirect('user');
     }
 

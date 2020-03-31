@@ -20,14 +20,14 @@ class profile extends MX_Controller
             'title'         => "My Profile",
             'namamodule'     => "profile",
             'namafileview'     => "V_profile",
-            'tampil'        => $this->m_profile->tampil(),
+            'tampil'        => $this->M_profile->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }
 
     function tambah()
     {
-        $this->m_profile->tambah();
+        $this->M_profile->tambah();
         redirect('user');
     }
 

@@ -1,6 +1,6 @@
 <div id="wrapper-content" class="clearfix ">
     <section class="page-title page-title-background" style="padding-top:120px;padding-bottom:120px">
-        <div class="page-title-background page-title-parallax" style="background-image: url(<?= base_url('assets/'); ?>wp-content/plugins/beyot-framework/assets/images/theme-options/page-title.jpg)" data-stellar-background-ratio="0.5"></div>
+        <div class="page-title-background page-title-parallax" style="background-image: url(../assets/wp-content/plugins/beyot-framework/assets/images/theme-options/page-title.jpg)" data-stellar-background-ratio="0.5"></div>
         <div class="vc_row-background-overlay" style="background-color: rgba(0,0,0,0.68)"></div>
         <div class="container">
             <div class="page-title-inner">
@@ -21,15 +21,15 @@
                     <div class="entry-content clearfix">
                         <div class="row ere-user-dashboard">
                             <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ere-dashboard-sidebar">
-                                <link rel='stylesheet' id='ere_dashboard-css' href='<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/css/dashboard.min.css?ver=1.9.4' type='text/css' media='all' />
+                                <link rel='stylesheet' id='ere_dashboard-css' href='../assets/wp-content/plugins/essential-real-estate/public/assets/css/dashboard.min.css?ver=1.9.4' type='text/css' media='all' />
                                 <div class="ere-dashboard-sidebar-content">
                                     <div class="ere-dashboard-welcome">
                                         <figure>
-                                            <img src="" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/images/profile-avatar.png';" alt="User Avatar">
+                                            <img src="" onerror="this.src = '../assets/wp-content/plugins/essential-real-estate/public/assets/images/profile-avatar.png';" alt="User Avatar">
                                         </figure>
                                         <div class="ere-dashboard-user-info">
                                             <h4 class="ere-dashboard-title">beyot</h4>
-                                            <a class="ere-dashboard-logout" href="<?= base_url('assets/'); ?>wp-login.php?action=logout&amp;redirect_to=http%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fmy-profile%2F&amp;_wpnonce=5625db0373"><i class="fa fa-sign-out"></i>Logout </a>
+                                            <a class="ere-dashboard-logout" href="../assets/wp-login.php?action=logout&amp;redirect_to=http%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fmy-profile%2F&amp;_wpnonce=5625db0373"><i class="fa fa-sign-out"></i>Logout </a>
                                         </div>
                                     </div>
                                     <nav class="navbar navbar-default" role="navigation">
@@ -94,7 +94,7 @@
                                                     <div class="col-sm-6 ere-profile-avatar">
                                                         <div id="user-profile-img">
                                                             <div class="profile-thumb">
-                                                                <img width="150" height="150" id="profile-image" src="" onerror="this.src = '<?= base_url('assets/'); ?>wp-content/plugins/essential-real-estate/public/assets/images/profile-avatar.png';" alt="User Avatar">
+                                                                <img width="150" height="150" id="profile-image" src="" onerror="this.src = '../assets/wp-content/plugins/essential-real-estate/public/assets/images/profile-avatar.png';" alt="User Avatar">
                                                             </div>
                                                         </div>
                                                         <div class="profile-img-controls">
