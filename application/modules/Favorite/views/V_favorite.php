@@ -1,6 +1,6 @@
 <div id="wrapper-content" class="clearfix ">
             <section class="page-title page-title-background" style="padding-top:120px;padding-bottom:120px">
-                <div class="page-title-background page-title-parallax" style="background-image: url(../assets/beyot/wp-content/plugins/beyot-framework/assets/images/theme-options/page-title.jpg); background-position: 50% 185.625px;" data-stellar-background-ratio="0.5"></div>
+                <div class="page-title-background page-title-parallax" style="background-image: url(http://themes.g5plus.net/beyot/wp-content/plugins/beyot-framework/assets/images/theme-options/page-title.jpg); background-position: 50% 185.625px;" data-stellar-background-ratio="0.5"></div>
                 <div class="vc_row-background-overlay" style="background-color: rgba(0,0,0,0.68)"></div>
                 <div class="container">
                     <div class="page-title-inner">
@@ -21,15 +21,15 @@
                             <div class="entry-content clearfix">
                                 <div class="row ere-user-dashboard">
                                     <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ere-dashboard-sidebar">
-                                        <link rel="stylesheet" id="ere_dashboard-css" href="../assets/beyot/wp-content/plugins/essential-real-estate/public/assets/css/dashboard.min.css?ver=1.9.4" type="text/css" media="all">
+                                        <link rel="stylesheet" id="ere_dashboard-css" href="http://themes.g5plus.net/beyot/wp-content/plugins/essential-real-estate/public/assets/css/dashboard.min.css?ver=1.9.4" type="text/css" media="all">
                                         <div class="ere-dashboard-sidebar-content">
                                             <div class="ere-dashboard-welcome">
                                                 <figure>
-                                                    <img src="../assets/beyot/wp-content/plugins/essential-real-estate/public/assets/images/profile-avatar.png" onerror="this.src = '../assets/beyot/wp-content/plugins/essential-real-estate/public/assets/images/profile-avatar.png';" alt="User Avatar">
+                                                    <img src="http://themes.g5plus.net/beyot/wp-content/plugins/essential-real-estate/public/assets/images/profile-avatar.png" onerror="this.src = 'http://themes.g5plus.net/beyot/wp-content/plugins/essential-real-estate/public/assets/images/profile-avatar.png';" alt="User Avatar">
                                                 </figure>
                                                 <div class="ere-dashboard-user-info">
                                                     <h4 class="ere-dashboard-title">abi</h4>
-                                                    <a class="ere-dashboard-logout" href="../assets/beyot/wp-login.php?action=logout&amp;redirect_to=http%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fmy-favorites%2F&amp;_wpnonce=6558d7b022"><i class="fa fa-sign-out"></i>Logout </a>
+                                                    <a class="ere-dashboard-logout" href="http://themes.g5plus.net/beyot/wp-login.php?action=logout&amp;redirect_to=http%3A%2F%2Fthemes.g5plus.net%2Fbeyot%2Fmy-favorites%2F&amp;_wpnonce=6558d7b022"><i class="fa fa-sign-out"></i>Logout </a>
                                                 </div>
                                             </div>
                                             <nav class="navbar navbar-default" role="navigation">
@@ -47,22 +47,22 @@
                                                 <div class="collapse navbar-collapse" id="ere-dashboard-sidebar-navbar-collapse">
                                                     <ul class="nav navbar-nav ere-dashboard-nav">
                                                         <li>
-                                                            <a href="../assets/beyot/my-profile/"><i class="fa fa-user"></i>My Profile </a>
+                                                            <a href="Profile"><i class="fa fa-user"></i>My Profile </a>
                                                         </li>
                                                         <!-- <li>
-                                                            <a href="../assets/beyot/my-properties/"><i class="fa fa-list-alt"></i>My Properties <span class="badge">0</span></a>
+                                                            <a href="http://themes.g5plus.net/beyot/my-properties/"><i class="fa fa-list-alt"></i>My Properties <span class="badge">0</span></a>
                                                         </li>
                                                         <li>
-                                                            <a href="../assets/beyot/my-invoices/"><i class="fa fa-file-text-o"></i>My Invoices <span class="badge">0</span></a>
+                                                            <a href="http://themes.g5plus.net/beyot/my-invoices/"><i class="fa fa-file-text-o"></i>My Invoices <span class="badge">0</span></a>
                                                         </li>
                                                         <li class="active">
-                                                            <a href="../assets/beyot/my-favorites/"><i class="fa fa-heart"></i>My Favorites <span class="badge">1</span></a>
+                                                            <a href="http://themes.g5plus.net/beyot/my-favorites/"><i class="fa fa-heart"></i>My Favorites <span class="badge">1</span></a>
                                                         </li>
                                                         <li>
-                                                            <a href="../assets/beyot/my-saved-search/"><i class="fa fa-search"></i>My Saved Searches <span class="badge">0</span></a>
+                                                            <a href="http://themes.g5plus.net/beyot/my-saved-search/"><i class="fa fa-search"></i>My Saved Searches <span class="badge">0</span></a>
                                                         </li>
                                                         <li>
-                                                            <a href="../assets/beyot/new-property/"><i class="fa fa-file-o"></i>Submit New Property </a>
+                                                            <a href="http://themes.g5plus.net/beyot/new-property/"><i class="fa fa-file-o"></i>Submit New Property </a>
                                                         </li> -->
                                                     </ul>
                                                 </div>
