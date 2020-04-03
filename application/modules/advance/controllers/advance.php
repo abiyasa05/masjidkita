@@ -8,7 +8,7 @@ class advance extends MX_Controller
     {
         parent::__construct();
         // model
-        $this->load->model('m_advance');
+        $this->load->model('M_advance');
         $this->load->model('login/m_session');
     }
 
@@ -32,13 +32,13 @@ class advance extends MX_Controller
 
     function edit()
     {
-        $this->m_advance->edit();
+        $this->M_advance->edit();
         redirect('user');
     }
 
     function hapus($id)
     {
-        $this->m_advance->hapus($id);
+        $this->M_advance->hapus($id);
         redirect('user');
     }
 
@@ -47,7 +47,7 @@ class advance extends MX_Controller
         $data = array(
             'namamodule'     => "advance",
             'namafileview'     => "V_advance",
-            'tampil'        => $this->m_advance->cari(),
+            'tampil'        => $this->M_advance->cari(),
         );
         echo Modules::run('template/tampilCore', $data);
     }

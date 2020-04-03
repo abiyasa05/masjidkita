@@ -19,20 +19,20 @@ class Detail extends MX_Controller
         $data = array(
             'namamodule'     => "detail",
             'namafileview'     => "V_detail",
-            'tampil'        => $this->m_detail->tampil(),
+            'tampil'        => $this->M_detail->tampil(),
         );
         echo Modules::run('template/tampilCore', $data);
     }
 
     function tambah()
     {
-        $this->m_detail->tambah();
+        $this->M_detail->tambah();
         redirect('user');
     }
 
     function edit()
     {
-        $this->m_detail->edit();
+        $this->M_detail->edit();
         redirect('user');
     }
 
@@ -47,7 +47,7 @@ class Detail extends MX_Controller
         $data = array(
             'namamodule'     => "detail",
             'namafileview'     => "V_detail",
-            'tampil'        => $this->m_detail->cari(),
+            'tampil'        => $this->M_detail->cari(),
         );
         echo Modules::run('template/tampilCore', $data);
     }
