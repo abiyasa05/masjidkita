@@ -9,7 +9,7 @@
 				</div>
 				<ul class="breadcrumbs">
 					<li>
-						<a href="home" class="home">Home</a>
+						<a href="<?= base_url('home'); ?>" class="home">Home</a>
 					</li>
 					<li>
 						<span>Contact</span>

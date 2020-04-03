@@ -8,8 +8,8 @@
                             <h1>Detail Admin-1</h1>
                         </div>
                         <ul class="breadcrumbs">
-                            <li><a href="<?= base_url('home'); ?>" class="home">Home</a></li>
-                            <li><a href="../index.html" title="Agents">Agents</a></li>
+                            <li><a href="<?= base_url('home');; ?>" class="home">Home</a></li>
+                            <li><a href="<?= base_url('agents'); ?>" title="Agents">Agents</a></li>
                             <li><span>Admin-1</span></li>
                         </ul>
                     </div>
@@ -66,7 +66,7 @@
                                 <div align="center">
                                 <div class="col-md-3">
                                     <div class="row">
-                                        <a href="users.html"><i style="font-size: 65px; color: rgb(216, 89, 16);" class="fa fa-group fa-10px" aria-hidden="true"></i>
+                                        <a href="<?= base_url('users'); ?>"><i style="font-size: 65px; color: rgb(216, 89, 16);" class="fa fa-group fa-10px" aria-hidden="true"></i>
                                         <h3>JAMA'AH</h3>
                                     </div>
                                 </div>
@@ -74,7 +74,7 @@
                                 <div align="center" >
                                 <div class="col-md-2">
                                     <div class="row">
-                                        <a href="takmir.html"><i style="font-size: 65px; color: rgb(216, 89, 16);" class="fa fa-male fa-20px" aria-hidden="true"></i></a>
+                                        <a href="<?= base_url('takmir'); ?>"><i style="font-size: 65px; color: rgb(216, 89, 16);" class="fa fa-male fa-20px" aria-hidden="true"></i></a>
                                         <h3>TA'MIR</h3>
                                     </div>
                                 </div>
@@ -82,7 +82,7 @@
                                 <div align="center" >
                                 <div class="col-md-2">
                                     <div class="row">
-                                        <a href="donasi.html"><i style="font-size: 65px; color: rgb(216, 89, 16);" class="fa fa-dollar fa-20px" aria-hidden="true"></i></a>
+                                        <a href="<?= base_url('donasi'); ?>"><i style="font-size: 65px; color: rgb(216, 89, 16);" class="fa fa-dollar fa-20px" aria-hidden="true"></i></a>
                                         <h3>DONASI</h3>
                                     </div>
                                 </div>

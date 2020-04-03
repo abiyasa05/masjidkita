@@ -76,11 +76,11 @@
                                                         </div>
                                                         <div class="property-item-content">
                                                             <div class="property-heading">
-                                                                <h2 class="property-title"><a href="assets/property/luxury-villa-in-rego-park1/index.html" title="Luxury Villa In Rego Park1">Masjid An-Nur</a></h2>
+                                                                <h2 class="property-title"><a href="<?= ('masjid_annur'); ?>" title="Luxury Villa In Rego Park1">Masjid An-Nur</a></h2>
                                                             </div>
                                                             <div class="property-location" title="9 Rue des Noisetiers, 31150 Bruguières, France"> <i class="fa fa-map-marker"></i> <a target="_blank" href="https://maps.google.com/?q=9%20Rue%20des%20Noisetiers,%2031150%20Brugui%c3%a8res,%20France"><span>Jalan Kapt. Piere Jagalan, Kasin, Kasin, Kec. Klojen.</span></a></div>
                                                             <div class="property-element-inline">
-                                                                <div class="property-type-list"> <i class="fa fa-tag"></i> <a href="assets/property-type/villa/index.html" title="Villa"><span>Masjid</span></a></div>
+                                                                <div class="property-type-list"> <i class="fa fa-tag"></i> <a href="<?= base_url('masjid'); ?>" title="Villa"><span>Masjid</span></a></div>
                                                                 <div class="property-agent"> <i class="fa fa-user"></i> <span>Abc</span></div>
                                                                 <div class="property-date"> <i class="fa fa-calendar"></i> 7 months ago</div>
                                                             </div>
@@ -118,11 +118,11 @@
                                                         </div>
                                                         <div class="property-item-content">
                                                             <div class="property-heading">
-                                                                <h2 class="property-title"><a href="assets/property/single-house-los-angeles/index.html" title="Single House Near, Los Angeles">Masjid Sabilillah</a></h2>
+                                                                <h2 class="property-title"><a href="<?= base_url('masjid_sabillilah'); ?>" title="Single House Near, Los Angeles">Masjid Sabilillah</a></h2>
                                                             </div>
                                                             <div class="property-location" title="1911 Sunset Blvd Los Angeles, CA 90026"> <i class="fa fa-map-marker"></i> <a target="_blank" href="https://maps.google.com/?q=1911%20Sunset%20Blvd%20Los%20Angeles,%20CA%2090026"><span>Jl. A. Yani No.15, Blimbing, Kec. Blimbing, Kota Malang</span></a></div>
                                                             <div class="property-element-inline">
-                                                                <div class="property-type-list"> <i class="fa fa-tag"></i> <a href="assets/property-type/house/index.html" title="House"><span>Masjid</span></a></div>
+                                                                <div class="property-type-list"> <i class="fa fa-tag"></i> <a href="<?= base_url('masjid'); ?>" title="House"><span>Masjid</span></a></div>
                                                                 <div class="property-agent"> <a href="assets/agent/abody-swedey/index.html" title="Abody Swedey"> <i class="fa fa-user"></i> <span>Abody Swedey</span> </a></div>
                                                                 <div class="property-date"> <i class="fa fa-calendar"></i> 3 years ago</div>
                                                             </div>

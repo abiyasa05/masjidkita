@@ -16,13 +16,13 @@
                                         Daftar Masjid</h1>
                                 </div>
                                 <ul class="breadcrumbs">
-                                    <li><a href="home" class="home">Home</a></li>
+                                    <li><a href="<?= base_url('home'); ?>" class="home">Home</a></li>
                                     <li><span>Masjid</span></li>
                                 </ul>
                             </div>
                         </div>
                         <ul class="breadcrumbs">
-                            <li><a href="../index.html" class="home">Home</a></li>
+                            <li><a href="<?= base_url('home'); ?>" class="home">Home</a></li>
                             <li><span>Masjid</span></li>
                         </ul>
                     </section>
@@ -63,7 +63,7 @@
                                                 </div>
                                                 <div class="property-item-content">
                                                     <div class="property-heading">
-                                                        <h2 class="property-title"><a href="../masjid/masjid-istiqlal/" title="Masjid Istiqlal">Masjid Istiqlal</a></h2>
+                                                        <h2 class="property-title"><a href="<?= base_url('masjid_istiqlal'); ?>" title="Masjid Istiqlal">Masjid Istiqlal</a></h2>
                                                     </div>
                                                     <div class="property-location" title="Jl. Raya Ngijo Karangploso No.99, Krajan, Ngijo, Kec. Karang Ploso, Malang, Jawa Timur 65152"> <i class="fa fa-map-marker"></i> <a target="_blank" href="https://www.google.com/maps/place/Masjid+An-Nur/@-7.9765747,112.6122463,14z/data=!4m8!1m2!2m1!1smasjid+an+nur+malang!3m4!1s0x2dd6282d0f564e89:0xcf34e745ab591b85!8m2!3d-7.963784!4d112.629557"><span>Jl. Raya Ngijo Karangploso No.99, Krajan, Ngijo, Kec. Karang Ploso, Malang, Jawa Timur 65152</span></a></div>
                                                     <div class="property-element-inline">

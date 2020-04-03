@@ -20,7 +20,7 @@
                                                                 <div class="block-center-inner">
                                                                     <div class="property-main-info">
                                                                         <div class="property-heading">
-                                                                            <h2><a href="masjid/masjid-jami'-malang/index.html" title="Masjid Agung Jami' Malang">Masjid Agung Jami' Malang</a></h2>
+                                                                            <h2><a href="<?= base_url('masjid_jami_malang'); ?>" title="Masjid Agung Jami' Malang">Masjid Agung Jami' Malang</a></h2>
                                                                             <div class="property-info-block-inline">
                                                                                 <div class="property-location" title="9 Rue des Noisetiers, 31150 Bruguières, France">
                                                                                     <i class="fa fa-map-marker"></i><a target="_blank" href="https://www.google.com/maps/place/Masjid+Agung+Jami'+Kota+Malang/@-7.9823846,112.6274571,17z/data=!3m1!4b1!4m5!3m4!1s0x2dd62822a31a9fad:0x5da7660ad2d7e18c!8m2!3d-7.9823846!4d112.6296458"><span>Jl. Merdeka Barat No.3, Kauman, Kec. Klojen, Kota Malang, Jawa Timur 65119</span></a>
@@ -42,7 +42,7 @@
                                                                 <div class="block-center-inner">
                                                                     <div class="property-main-info">
                                                                         <div class="property-heading">
-                                                                            <h2><a href="masjid/masjid-raya-baiturrahman/" title="Masjid Raya Baiturrahman">Masjid Raya Baiturrahman</a></h2>
+                                                                            <h2><a href="<?= base_url('masjid_baiturrahman'); ?>" title="Masjid Raya Baiturrahman">Masjid Raya Baiturrahman</a></h2>
                                                                             <div class="property-info-block-inline">
                                                                                 <div class="property-location" title="Jl. Moh. Jam No.1, Kp. Baru, Kec. Baiturrahman, Kota Banda Aceh, Aceh">
                                                                                     <i class="fa fa-map-marker"></i><a target="_blank" href="https://maps.google.com/?q=1911%20Sunset%20Blvd%20Los%20Angeles,%20CA%2090026"><span>Jl. Moh. Jam No.1, Kp. Baru, Kec. Baiturrahman, Kota Banda Aceh, Aceh</span></a>
@@ -64,7 +64,7 @@
                                                                 <div class="block-center-inner">
                                                                     <div class="property-main-info">
                                                                         <div class="property-heading">
-                                                                            <h2><a href="masjid/masjid-istiqlal/" title="Masjid Istiqlal">Masjid Istiqlal</a></h2>
+                                                                            <h2><a href="<?= base_url('masjid_istiqlal'); ?>" title="Masjid Istiqlal">Masjid Istiqlal</a></h2>
                                                                             <div class="property-info-block-inline">
                                                                                 <div class="property-location" title="Jl. Taman Wijaya Kusuma, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710">
                                                                                     <i class="fa fa-map-marker"></i><a target="_blank" href="https://maps.google.com/?q=6511%20Santa%20Monica%20Blvd%20Los%20Angeles,%20CA%2090038"><span>Jl. Taman Wijaya Kusuma, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710</span></a>

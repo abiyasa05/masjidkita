@@ -8,7 +8,7 @@
                             <h1>My Favorites</h1>
                         </div>
                         <ul class="breadcrumbs">
-                            <li><a href="home" class="home">Home</a></li>
+                            <li><a href="<?= base_url('home'); ?>" class="home">Home</a></li>
                             <li><span>My Favorites</span></li>
                         </ul>
                     </div>
@@ -47,7 +47,7 @@
                                                 <div class="collapse navbar-collapse" id="ere-dashboard-sidebar-navbar-collapse">
                                                     <ul class="nav navbar-nav ere-dashboard-nav">
                                                         <li>
-                                                            <a href="Profile"><i class="fa fa-user"></i>My Profile </a>
+                                                            <a href="<?= base_url('Profile'); ?>"><i class="fa fa-user"></i>My Profile </a>
                                                         </li>
                                                         <!-- <li>
                                                             <a href="http://themes.g5plus.net/beyot/my-properties/"><i class="fa fa-list-alt"></i>My Properties <span class="badge">0</span></a>
